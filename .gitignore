@@ -1,0 +1,16 @@
+.gradle/
+.idea/
+**/build/
+local.properties
+*.keystore
+*.jks
+*.p12
+*.pem
+*.key
+app/signing/
+app/libs/*.aar
+app/libs/*-sources.jar
+credentials*.json
+service-account*.json
+.env
+.env.*
